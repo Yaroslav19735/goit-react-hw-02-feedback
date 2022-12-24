@@ -1,0 +1,6 @@
+.btn {
+    background-color: rgba(224, 33, 33, 0.932);
+    padding: 2px 5px;
+    margin: 5px;
+    text-transform: capitalize;
+}
